@@ -1,0 +1,33 @@
+body{
+    background-color: wheat;
+}
+
+.container{
+    background-color: yellow;
+    width:350px;
+    padding:15px;
+    text-align: center;
+    margin-left: 550px;
+    margin-top: 140px;
+}
+#height{
+    background-color: rgb(122, 219, 122);
+    width:200px;
+    height:25px;
+    padding:3px;
+}
+#weight{
+    background-color: rgb(122, 219, 122);
+    width:200px;
+    height:25px;
+    padding:3px;
+}
+button{
+    text-align: center;
+    width:90px;
+    height:30px;
+    margin: 0 auto;
+    border-radius: 4px;
+    margin-left: 50px;
+    margin-top: 15px;
+}
